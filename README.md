@@ -6,6 +6,10 @@
 
 Neste curso, você aprenderá a integrar o Vercel AI SDK em uma aplicação Next.js para construir um assistente inteligente que interage com usuários de forma dinâmica. O projeto do curso, chamado Vidy, será um assistente especializado em recomendações de filmes, demonstrando como utilizar IA e SSR (Server-Side Rendering) juntos.
 
+## Estou utilizando o llama3.1 local
+
+Neste caso, para que o projeto funcione é necessario adicionar uma API KEY do OPENAI e trocar o llama3.1 por alguma versão do chatgpt. No meu caso, utilizei o llama local devido ao custo do GPT.
+
 ## 🔨 Funcionalidades do projeto
 
 Durante o curso, você implementará:
@@ -47,3 +51,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 ## 📚 Mais Informações
 
 Se você deseja mergulhar fundo no desenvolvimento de assistentes inteligentes com IA, SSR e integração de APIs, [acesse o curso]() e acompanhe todo o processo de desenvolvimento do Vidy!
+
